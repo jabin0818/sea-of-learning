@@ -1,4 +1,4 @@
-# uni-app H5小项目——sea-of-learning（学海无涯）
+# 基于 Uni-APP 的课程学习H5页面
 数据使用浏览器本地缓存
 # 项目预览
 
